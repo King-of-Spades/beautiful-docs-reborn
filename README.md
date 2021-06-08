@@ -7,7 +7,6 @@ It was a time-capsule, as the repo hadn't had any updates in 5 years. But though
 I'm not personally brave enough to post my own email address here, but I still plan on checking GitHub notifications if you file an issue or PR. 
 
 # Beautiful Docs
-
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
 
 With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs) and [Tools for Generating Docs](#generating-docs).
@@ -20,7 +19,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 [Mark](https://twitter.com/pharkmillups)
 
 ### And Now For The Docs 
-
 * [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. 
 * [Android Developer Documentation](https://developer.android.com/docs)
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. 
