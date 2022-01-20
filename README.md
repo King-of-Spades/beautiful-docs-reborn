@@ -115,6 +115,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Hologram](https://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide.
 * [Ignite](https://github.com/intuit/Ignite) Markdown documentation tool built around react components as first class plugins. Docs generateed using [bulma](https://bulma.io/)
 * [LaTex](https://www.latex-project.org/) Latex is typesetting system that has been around for over 30 yrs and still very popular mostly in academia settings. Its strongest strength is in its capacity and flexibility in creating beautiful mathematical formulas.
+* [MarkDoc](https://pythonhosted.org/Markdoc/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/).
 * [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development.
 * [MkDocs](https://www.mkdocs.org/) - Documentation with Markdown, written in Python.
 * [Pandoc](https://pandoc.org/) If you need to convert files from one markup format into another, pandoc is your swiss-army knife. Can generate documentation from most common markup languages.
@@ -134,7 +135,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 #### http links, not https
 * **NOT-HTTPS** [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code
 * **NOT-HTTPS** [JSDoc](http://usejsdoc.org/) - Generate JavaScript API documentation directly from source code comments. Also useful as a style guide for JS commenting, in general. Google uses a version of JSDoc tags for its [Closure compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
-* **NOT-HTTPS** [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/).
 * **NOT-HTTPS** [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. 
 * **NOT-HTTPS** [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. 
 * **NOT-HTTPS** [Sphinx](http://sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output.
